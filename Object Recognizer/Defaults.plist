@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Feature Detector</key>
+	<string>SURF</string>
+	<key>HUD</key>
+	<true/>
+	<key>Descriptor Extractor</key>
+	<string>SURF</string>
+	<key>Matcher</key>
+	<string>FlannBased</string>
+	<key>Distance Ratio</key>
+	<real>0.7</real>
+	<key>Threshold</key>
+	<integer>5</integer>
+	<key>Action</key>
+	<string>ORDefaultAction</string>
+</dict>
+</plist>
